@@ -27,4 +27,4 @@
 
 `Прикрепите в файл README.md скриншот дашборда с названием «Задание 4»`
 
-![image6](https://github.com/maninblack802/repo-004/blob/main/img/image7.png)
+![image7](https://github.com/maninblack802/repo-004/blob/main/img/image7.png)
